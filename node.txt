@@ -1,8 +1,1 @@
-trojan://VqmQhTut@trojan.wefuckgfw.gq:443
-trojan://maRwYkiS@trojan.wefuckgfw.gq:443
-trojan://GGyKyAjI@trojan.wefuckgfw.gq:443
-trojan://tvcPEMZt@trojan.wefuckgfw.gq:443
-trojan://GEiVHUeg@trojan.wefuckgfw.gq:443
-trojan://Uallen_Qbit@trojan-vultr-tokyo.kdbaidu.com:443
-trojan://Uallen_Qbit@trojan-justhost.kdbaidu.com:443
-trojan://Uallen_Qbit@trojan-jp.kdbaidu.com:443
+
